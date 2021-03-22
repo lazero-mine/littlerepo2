@@ -1,0 +1,8 @@
+known anti-mining sites:	block speed:	solutions:
+	kaggle			instant
+	aistudio (baidu)	instant
+	colab			after a while
+	travis-ci		instant
+
+useful sites:		hashrate:
+	codeship	500H/S
