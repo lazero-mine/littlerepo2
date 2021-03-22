@@ -4,5 +4,5 @@ known anti-mining sites:	block speed:	solutions:
 	colab			after a while
 	travis-ci		instant
 
-useful sites:		hashrate:
-	codeship	500H/S
+useful sites:		hashrate:	comments:
+	codeship	500H/S		can't see my projects! is it really running?
